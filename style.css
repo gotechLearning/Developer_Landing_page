@@ -11,7 +11,7 @@ html,body{
     font-family: 'Roboto', sans-serif;
 }
 .hero_section{
-    background-image: url(/first.avif);
+    background-image: url(first.avif);
     min-height: 100vh;
     background-size: cover;
     background-position: center;
